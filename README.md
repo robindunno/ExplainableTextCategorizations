@@ -1,6 +1,6 @@
 # ExplainableTextCategorizations
 
-Moved to [GitLab](https://gitlab.com/robin.r/explainabletextcategorizations).
+This repo moved to [GitLab](https://gitlab.com/robin.r/explainabletextcategorizations).
 
 See also [Risch J., Ruff R., Krestel R. (2020). Explaining Offensive Language Detection. Journal for Language Technology and Computational Linguistics, 34(1), 29-47.](https://jlcl.org/content/2-allissues/1-heft1-2020/jlcl_2020-1.pdf#page=39)
 
